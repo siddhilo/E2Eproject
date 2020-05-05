@@ -19,7 +19,7 @@ public class AppTest
         assertTrue( true );
         System.out.println("codingatBranch1");
         System.out.println("codingatBranch1");
-        System.out.println("codingatBranch1");
-        System.out.println("codingatBranch1");
+        System.out.println("codingatBranch3");
+        System.out.println("codingatBranch1=2");
     }
 }
