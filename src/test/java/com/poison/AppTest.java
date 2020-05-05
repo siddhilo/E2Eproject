@@ -15,7 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        System.out.println("Check Assertion value");
+        System.out.println("Check Assertion");
         assertTrue( true );
         System.out.println("working haa");
     }
