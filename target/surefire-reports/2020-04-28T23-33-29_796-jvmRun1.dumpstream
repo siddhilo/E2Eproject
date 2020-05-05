@@ -1,0 +1,278 @@
+# Created at 2020-04-28T23:34:26.472
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2020-04-28T23:34:44.699
+Unexpected IOException: 8,1,Academy.HomeTest,base(Academy.HomeTest),null,Expected condition failed: waiting for visibility of element located by By.cssSelector: a[href*='sign_in'] (tried for 30 second(s) with 500 milliseconds interval),null,Expected condition failed: waiting for visibility of element located by By.cssSelector: a[href*='sign_in'] (tried for 30 second(s) with 500 milliseconds interval),HomeTest.base:27 \00BB Timeout Expected condition failed: waiting for visibility o...,org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[href*='sign_in'] (tried for 30 second(s) with 500 milliseconds interval)\000A\0009at Academy.HomeTest.base(HomeTest.java:27)\000ACaused by: org.openqa.selenium.NoSuchElementException: \000AUnable to find element with css selector == a[href*='sign_in'] (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-8R8PUMTP'\002C ip: '192.168.0.4'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.4'\000ADriver info: org.openqa.selenium.ie.InternetExplorerDriver\000ACapabilities {browserAttachTimeout: 0\002C browserName: internet explorer\002C cssSelectorsEnabled: true\002C elementScrollBehavior: 0\002C enableElementCacheCleanup: true\002C enablePersistentHover: true\002C handlesAlerts: true\002C ie.browserCommandLineSwitches: \002C ie.ensureCleanSession: false\002C ie.forceCreateProcessApi: false\002C ie.usePerProcessProxy: false\002C ignoreProtectedModeSettings: false\002C ignoreZoomSetting: false\002C initialBrowserUrl: http://localhost:36097/\002C javascriptEnabled: true\002C nativeEvents: true\002C platform: WINDOWS\002C platformName: WINDOWS\002C requireWindowFocus: false\002C takesScreenshot: true\002C unexpectedAlertBehaviour: dismiss\002C unhandledPromptBehavior: dismiss\002C version: 11}\000ASession ID: 23686288-cab8-4acf-ae61-f6448d105ef3\000A*** Element info: {Using=css selector\002C value=a[href*='sign_in']}\000A\0009at Academy.HomeTest.base(HomeTest.java:27)\000A
+
+
+# Created at 2020-04-28T23:34:46.016
+Unexpected IOException with stream: S
+
+# Created at 2020-04-28T23:34:46.016
+Unexpected IOException with stream: t
+
+# Created at 2020-04-28T23:34:46.016
+Unexpected IOException with stream: a
+
+# Created at 2020-04-28T23:34:46.016
+Unexpected IOException with stream: r
+
+# Created at 2020-04-28T23:34:46.016
+Unexpected IOException with stream: t
+
+# Created at 2020-04-28T23:34:46.016
+Unexpected IOException with stream: e
+
+# Created at 2020-04-28T23:34:46.016
+Unexpected IOException with stream: d
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream:  
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: I
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: n
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: t
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: e
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: r
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: n
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: e
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: t
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: E
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: x
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: p
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: l
+
+# Created at 2020-04-28T23:34:46.032
+Unexpected IOException with stream: o
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream: r
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream: e
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream: r
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream: D
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream: r
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream: i
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream: v
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream: e
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream: r
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream:  
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream: s
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream: e
+
+# Created at 2020-04-28T23:34:46.048
+Unexpected IOException with stream: r
+
+# Created at 2020-04-28T23:34:46.063
+Unexpected IOException with stream: v
+
+# Created at 2020-04-28T23:34:46.063
+Unexpected IOException with stream: e
+
+# Created at 2020-04-28T23:34:46.063
+Unexpected IOException with stream: r
+
+# Created at 2020-04-28T23:34:46.063
+Unexpected IOException with stream:  
+
+# Created at 2020-04-28T23:34:46.063
+Unexpected IOException with stream: (
+
+# Created at 2020-04-28T23:34:46.063
+Unexpected IOException with stream: 3
+
+# Created at 2020-04-28T23:34:46.063
+Unexpected IOException with stream: 2
+
+# Created at 2020-04-28T23:34:46.079
+Unexpected IOException with stream: -
+
+# Created at 2020-04-28T23:34:46.079
+Unexpected IOException with stream: b
+
+# Created at 2020-04-28T23:34:46.079
+Unexpected IOException with stream: i
+
+# Created at 2020-04-28T23:34:46.079
+Unexpected IOException with stream: t
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: )
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: 
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: 
+
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: 2
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: .
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: 4
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: 0
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: .
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: 0
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: .
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: 0
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: 
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: 
+
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: L
+
+# Created at 2020-04-28T23:34:46.094
+Unexpected IOException with stream: i
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: s
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: t
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: e
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: n
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: i
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: n
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: g
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream:  
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: o
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: n
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream:  
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: p
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: o
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: r
+
+# Created at 2020-04-28T23:34:46.110
+Unexpected IOException with stream: t
+
+# Created at 2020-04-28T23:34:46.126
+Unexpected IOException with stream:  
+
+# Created at 2020-04-28T23:34:46.126
+Unexpected IOException with stream: 3
+
+# Created at 2020-04-28T23:34:46.126
+Unexpected IOException with stream: 8
+
+# Created at 2020-04-28T23:34:46.126
+Unexpected IOException with stream: 1
+
+# Created at 2020-04-28T23:34:46.126
+Unexpected IOException with stream: 8
+
+# Created at 2020-04-28T23:34:46.126
+Unexpected IOException with stream: 8
+
+# Created at 2020-04-28T23:34:46.126
+Unexpected IOException with stream: 
+
+# Created at 2020-04-28T23:34:46.141
+Unexpected IOException with stream: 
+
+
+# Created at 2020-04-28T23:34:47.286
+Unexpected IOException with stream: Apr 28, 2020 11:34:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2020-04-28T23:34:48.749
+Unexpected IOException: 5,1,Academy.NavigationTest,navigate(Academy.NavigationTest),Academy.NavigationTest,null,null
+
+
+# Created at 2020-04-28T23:34:59.032
+Unexpected IOException: 8,1,Academy.NavigationTest,navigate(Academy.NavigationTest),null,Unable to find element with css selector == [class='text-center'] h2 (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-8R8PUMTP'\002C ip: '192.168.0.4'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.4'\000ADriver info: org.openqa.selenium.ie.InternetExplorerDriver\000ACapabilities {browserAttachTimeout: 0\002C browserName: internet explorer\002C cssSelectorsEnabled: true\002C elementScrollBehavior: 0\002C enableElementCacheCleanup: true\002C enablePersistentHover: true\002C handlesAlerts: true\002C ie.browserCommandLineSwitches: \002C ie.ensureCleanSession: false\002C ie.forceCreateProcessApi: false\002C ie.usePerProcessProxy: false\002C ignoreProtectedModeSettings: false\002C ignoreZoomSetting: false\002C initialBrowserUrl: http://localhost:38188/\002C javascriptEnabled: true\002C nativeEvents: true\002C platform: WINDOWS\002C platformName: WINDOWS\002C requireWindowFocus: false\002C takesScreenshot: true\002C unexpectedAlertBehaviour: dismiss\002C unhandledPromptBehavior: dismiss\002C version: 11}\000ASession ID: 629ff9ca-b5db-4588-aa89-41590e0d59b6\000A*** Element info: {Using=css selector\002C value=[class='text-center'] h2},null,Unable to find element with css selector == [class='text-center'] h2 (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-8R8PUMTP'\002C ip: '192.168.0.4'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.4'\000ADriver info: org.openqa.selenium.ie.InternetExplorerDriver\000ACapabilities {browserAttachTimeout: 0\002C browserName: internet explorer\002C cssSelectorsEnabled: true\002C elementScrollBehavior: 0\002C enableElementCacheCleanup: true\002C enablePersistentHover: true\002C handlesAlerts: true\002C ie.browserCommandLineSwitches: \002C ie.ensureCleanSession: false\002C ie.forceCreateProcessApi: false\002C ie.usePerProcessProxy: false\002C ignoreProtectedModeSettings: false\002C ignoreZoomSetting: false\002C initialBrowserUrl: http://localhost:38188/\002C javascriptEnabled: true\002C nativeEvents: true\002C platform: WINDOWS\002C platformName: WINDOWS\002C requireWindowFocus: false\002C takesScreenshot: true\002C unexpectedAlertBehaviour: dismiss\002C unhandledPromptBehavior: dismiss\002C version: 11}\000ASession ID: 629ff9ca-b5db-4588-aa89-41590e0d59b6\000A*** Element info: {Using=css selector\002C value=[class='text-center'] h2},NavigationTest.navigate:30 \00BB NoSuchElement Unable to find element with css sel...,org.openqa.selenium.NoSuchElementException: \000AUnable to find element with css selector == [class='text-center'] h2 (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-8R8PUMTP'\002C ip: '192.168.0.4'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.4'\000ADriver info: org.openqa.selenium.ie.InternetExplorerDriver\000ACapabilities {browserAttachTimeout: 0\002C browserName: internet explorer\002C cssSelectorsEnabled: true\002C elementScrollBehavior: 0\002C enableElementCacheCleanup: true\002C enablePersistentHover: true\002C handlesAlerts: true\002C ie.browserCommandLineSwitches: \002C ie.ensureCleanSession: false\002C ie.forceCreateProcessApi: false\002C ie.usePerProcessProxy: false\002C ignoreProtectedModeSettings: false\002C ignoreZoomSetting: false\002C initialBrowserUrl: http://localhost:38188/\002C javascriptEnabled: true\002C nativeEvents: true\002C platform: WINDOWS\002C platformName: WINDOWS\002C requireWindowFocus: false\002C takesScreenshot: true\002C unexpectedAlertBehaviour: dismiss\002C unhandledPromptBehavior: dismiss\002C version: 11}\000ASession ID: 629ff9ca-b5db-4588-aa89-41590e0d59b6\000A*** Element info: {Using=css selector\002C value=[class='text-center'] h2}\000A\0009at Academy.NavigationTest.navigate(NavigationTest.java:30)\000A
+
+

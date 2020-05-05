@@ -1,0 +1,6 @@
+14:25:11.150 [main] INFO  Academy.NavigationTest - Navigating to URL
+14:25:11.703 [TestNG-test=Validating toolbar and title in Home Page-1] INFO  Academy.NavigationTest - Title displayed successfully
+14:25:11.798 [TestNG-test=Validating toolbar and title in Home Page-2] INFO  Academy.NavigationTest - Toolbar displayed
+14:25:24.984 [main] INFO  Academy.NavigationTest - driver closed successfully
+14:26:38.668 [TestNG-tests-2] DEBUG Academy.NavigationTest - Before Test
+14:26:38.696 [TestNG-tests-1] DEBUG Academy.HomeTest - Before Test

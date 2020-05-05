@@ -1,0 +1,8 @@
+23:42:18.077 [main] INFO  Academy.HomeTest - Driver initialized
+23:42:25.299 [main] INFO  Academy.HomeTest - Navigating to url
+23:42:29.824 [main] INFO  Academy.HomeTest - Navigating to url
+23:42:31.316 [main] INFO  Academy.HomeTest - driver closed successfully
+23:42:31.705 [main] DEBUG Academy.NavigationTest - Before Test
+23:42:34.397 [main] INFO  Academy.NavigationTest - Driver initialized
+23:42:36.401 [main] INFO  Academy.NavigationTest - Navigating to URL
+23:42:37.249 [main] INFO  Academy.NavigationTest - Title displayed successfully

@@ -1,0 +1,390 @@
+# Created at 2020-04-27T21:50:27.235
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2020-04-27T21:50:30.766
+Unexpected IOException with stream: S
+
+# Created at 2020-04-27T21:50:30.766
+Unexpected IOException with stream: t
+
+# Created at 2020-04-27T21:50:30.766
+Unexpected IOException with stream: a
+
+# Created at 2020-04-27T21:50:30.766
+Unexpected IOException with stream: r
+
+# Created at 2020-04-27T21:50:30.781
+Unexpected IOException with stream: t
+
+# Created at 2020-04-27T21:50:30.781
+Unexpected IOException with stream: e
+
+# Created at 2020-04-27T21:50:30.781
+Unexpected IOException with stream: d
+
+# Created at 2020-04-27T21:50:30.781
+Unexpected IOException with stream:  
+
+# Created at 2020-04-27T21:50:30.781
+Unexpected IOException with stream: I
+
+# Created at 2020-04-27T21:50:30.781
+Unexpected IOException with stream: n
+
+# Created at 2020-04-27T21:50:30.781
+Unexpected IOException with stream: t
+
+# Created at 2020-04-27T21:50:30.781
+Unexpected IOException with stream: e
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: r
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: n
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: e
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: t
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: E
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: x
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: p
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: l
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: o
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: r
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: e
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: r
+
+# Created at 2020-04-27T21:50:30.797
+Unexpected IOException with stream: D
+
+# Created at 2020-04-27T21:50:30.813
+Unexpected IOException with stream: r
+
+# Created at 2020-04-27T21:50:30.813
+Unexpected IOException with stream: i
+
+# Created at 2020-04-27T21:50:30.813
+Unexpected IOException with stream: v
+
+# Created at 2020-04-27T21:50:30.813
+Unexpected IOException with stream: e
+
+# Created at 2020-04-27T21:50:30.813
+Unexpected IOException with stream: r
+
+# Created at 2020-04-27T21:50:30.813
+Unexpected IOException with stream:  
+
+# Created at 2020-04-27T21:50:30.813
+Unexpected IOException with stream: s
+
+# Created at 2020-04-27T21:50:30.813
+Unexpected IOException with stream: e
+
+# Created at 2020-04-27T21:50:30.813
+Unexpected IOException with stream: r
+
+# Created at 2020-04-27T21:50:30.813
+Unexpected IOException with stream: v
+
+# Created at 2020-04-27T21:50:30.813
+Unexpected IOException with stream: e
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: r
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream:  
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: (
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: 3
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: 2
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: -
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: b
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: i
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: t
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: )
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: 
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: 
+
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: 3
+
+# Created at 2020-04-27T21:50:30.828
+Unexpected IOException with stream: .
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: 1
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: 5
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: 0
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: .
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: 1
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: .
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: 0
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: 
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: 
+
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: L
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: i
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: s
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: t
+
+# Created at 2020-04-27T21:50:30.844
+Unexpected IOException with stream: e
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream: n
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream: i
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream: n
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream: g
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream:  
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream: o
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream: n
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream:  
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream: p
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream: o
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream: r
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream: t
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream:  
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream: 3
+
+# Created at 2020-04-27T21:50:30.859
+Unexpected IOException with stream: 2
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: 4
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: 5
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: 6
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: 
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: 
+
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: O
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: n
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: l
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: y
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream:  
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: l
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: o
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: c
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: a
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: l
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream:  
+
+# Created at 2020-04-27T21:50:30.875
+Unexpected IOException with stream: c
+
+# Created at 2020-04-27T21:50:30.891
+Unexpected IOException with stream: o
+
+# Created at 2020-04-27T21:50:30.891
+Unexpected IOException with stream: n
+
+# Created at 2020-04-27T21:50:30.891
+Unexpected IOException with stream: n
+
+# Created at 2020-04-27T21:50:30.891
+Unexpected IOException with stream: e
+
+# Created at 2020-04-27T21:50:30.891
+Unexpected IOException with stream: c
+
+# Created at 2020-04-27T21:50:30.891
+Unexpected IOException with stream: t
+
+# Created at 2020-04-27T21:50:30.891
+Unexpected IOException with stream: i
+
+# Created at 2020-04-27T21:50:30.891
+Unexpected IOException with stream: o
+
+# Created at 2020-04-27T21:50:30.891
+Unexpected IOException with stream: n
+
+# Created at 2020-04-27T21:50:30.906
+Unexpected IOException with stream: s
+
+# Created at 2020-04-27T21:50:30.906
+Unexpected IOException with stream:  
+
+# Created at 2020-04-27T21:50:30.906
+Unexpected IOException with stream: a
+
+# Created at 2020-04-27T21:50:30.906
+Unexpected IOException with stream: r
+
+# Created at 2020-04-27T21:50:30.906
+Unexpected IOException with stream: e
+
+# Created at 2020-04-27T21:50:30.922
+Unexpected IOException with stream:  
+
+# Created at 2020-04-27T21:50:30.922
+Unexpected IOException with stream: a
+
+# Created at 2020-04-27T21:50:30.922
+Unexpected IOException with stream: l
+
+# Created at 2020-04-27T21:50:30.922
+Unexpected IOException with stream: l
+
+# Created at 2020-04-27T21:50:30.922
+Unexpected IOException with stream: o
+
+# Created at 2020-04-27T21:50:30.922
+Unexpected IOException with stream: w
+
+# Created at 2020-04-27T21:50:30.922
+Unexpected IOException with stream: e
+
+# Created at 2020-04-27T21:50:30.922
+Unexpected IOException with stream: d
+
+# Created at 2020-04-27T21:50:30.922
+Unexpected IOException with stream: 
+
+# Created at 2020-04-27T21:50:30.922
+Unexpected IOException with stream: 
+
+
+# Created at 2020-04-27T21:50:37.108
+Unexpected IOException with stream: Apr 27, 2020 9:50:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2020-04-27T21:50:38.498
+Unexpected IOException: 5,1,Academy.NavigationTest,navigate(Academy.NavigationTest),Academy.NavigationTest,null,null
+
+
+# Created at 2020-04-27T21:50:48.737
+Unexpected IOException: 8,1,Academy.NavigationTest,navigate(Academy.NavigationTest),null,Unable to find element with css selector == [class='text-center'] h2\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-8R8PUMTP'\002C ip: '192.168.0.4'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.4'\000ADriver info: org.openqa.selenium.ie.InternetExplorerDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: internet explorer\002C browserVersion: 11\002C javascriptEnabled: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:ieOptions: {browserAttachTimeout: 0\002C elementScrollBehavior: 0\002C enablePersistentHover: true\002C ie.browserCommandLineSwitches: \002C ie.edgechromium: false\002C ie.edgepath: \002C ie.ensureCleanSession: false\002C ie.fileUploadDialogTimeout: 3000\002C ie.forceCreateProcessApi: false\002C ignoreProtectedModeSettings: false\002C ignoreZoomSetting: false\002C initialBrowserUrl: http://localhost:32456/\002C nativeEvents: true\002C requireWindowFocus: false}\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 7b644351-1bb4-4294-9cd6-7120ef15a4de\000A*** Element info: {Using=css selector\002C value=[class='text-center'] h2},null,Unable to find element with css selector == [class='text-center'] h2\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-8R8PUMTP'\002C ip: '192.168.0.4'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.4'\000ADriver info: org.openqa.selenium.ie.InternetExplorerDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: internet explorer\002C browserVersion: 11\002C javascriptEnabled: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:ieOptions: {browserAttachTimeout: 0\002C elementScrollBehavior: 0\002C enablePersistentHover: true\002C ie.browserCommandLineSwitches: \002C ie.edgechromium: false\002C ie.edgepath: \002C ie.ensureCleanSession: false\002C ie.fileUploadDialogTimeout: 3000\002C ie.forceCreateProcessApi: false\002C ignoreProtectedModeSettings: false\002C ignoreZoomSetting: false\002C initialBrowserUrl: http://localhost:32456/\002C nativeEvents: true\002C requireWindowFocus: false}\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 7b644351-1bb4-4294-9cd6-7120ef15a4de\000A*** Element info: {Using=css selector\002C value=[class='text-center'] h2},NavigationTest.navigate:30 \00BB NoSuchElement Unable to find element with css sel...,org.openqa.selenium.NoSuchElementException: \000AUnable to find element with css selector == [class='text-center'] h2\000AFor documentation on this error\002C please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-8R8PUMTP'\002C ip: '192.168.0.4'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.4'\000ADriver info: org.openqa.selenium.ie.InternetExplorerDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: internet explorer\002C browserVersion: 11\002C javascriptEnabled: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:ieOptions: {browserAttachTimeout: 0\002C elementScrollBehavior: 0\002C enablePersistentHover: true\002C ie.browserCommandLineSwitches: \002C ie.edgechromium: false\002C ie.edgepath: \002C ie.ensureCleanSession: false\002C ie.fileUploadDialogTimeout: 3000\002C ie.forceCreateProcessApi: false\002C ignoreProtectedModeSettings: false\002C ignoreZoomSetting: false\002C initialBrowserUrl: http://localhost:32456/\002C nativeEvents: true\002C requireWindowFocus: false}\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 7b644351-1bb4-4294-9cd6-7120ef15a4de\000A*** Element info: {Using=css selector\002C value=[class='text-center'] h2}\000A\0009at Academy.NavigationTest.navigate(NavigationTest.java:30)\000A
+
+
+# Created at 2020-04-27T21:50:51.961
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
