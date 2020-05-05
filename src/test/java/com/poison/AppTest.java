@@ -20,6 +20,6 @@ public class AppTest
         System.out.println("codingatBranch1");
         System.out.println("codingatBranch1");
         System.out.println("codingatBranch3");
-        System.out.println("codingatBranch1=2");
+        System.out.println("codingatBranch1=2yayaa");
     }
 }
